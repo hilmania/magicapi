@@ -1,0 +1,5 @@
+[08-Mar-2018 02:56:20 UTC] PHP Parse error:  syntax error, unexpected ''_'' (T_CONSTANT_ENCAPSED_STRING) in /home/sina4165/public_html/magicongkir/app/Http/Controllers/SearchController.php on line 41
+[08-Mar-2018 02:57:33 UTC] PHP Parse error:  syntax error, unexpected ''_'' (T_CONSTANT_ENCAPSED_STRING) in /home/sina4165/public_html/magicongkir/app/Http/Controllers/SearchController.php on line 41
+[08-Mar-2018 02:58:48 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Schema' not found in /home/sina4165/public_html/magicongkir/app/Http/Controllers/SearchController.php on line 42
+[08-Mar-2018 08:26:04 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/sina4165/public_html/magicongkir/app/Http/Controllers/SearchController.php on line 39
+[11-Mar-2018 06:19:19 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE), expecting ']' in /home/sina4165/public_html/magicongkir/app/Http/Controllers/SearchController.php on line 52
